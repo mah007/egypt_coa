@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
      <record id="eg_chart_template_standard" model="account.chart.template">
-         <field name="name">Egypt Chart of Accounts - Standard</field>
+         <field name="name">Egyptian Chart of Accounts - Standard</field>
          <field name="code_digits">6</field>
          <field name="bank_account_code_prefix">101</field>
          <field name="cash_account_code_prefix">105</field>
