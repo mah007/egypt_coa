@@ -11,7 +11,7 @@
     'category': 'Localization',
     'description': """
 Egypt accounting chart and localization.
-=======================================================
+========================================================
 
     """,
     'depends': ['base', 'account'],
