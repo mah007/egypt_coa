@@ -619,7 +619,7 @@
      </record>
 
      <record model="account.account.template" id="eg_account_3790">
-         <field name="name">Accrued Dubai Customs</field>
+         <field name="name">Accrued Cairo Customs</field>
          <field name="code">204411</field>
          <field name="user_type_id" ref="account.data_account_type_current_liabilities" />
          <field name="reconcile" eval="False" />
